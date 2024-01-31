@@ -18,7 +18,7 @@ The Native American Language Learning App is a unique educational tool designed 
 5. **Follow the Curriculum**: Engage with the curriculum system for a more structured learning experience.
 
 ## Installation
-1. Clone or download the app repository from [GitHub link].
+1. Clone or download the app repository from [https://github.com/LurkyLunk/NativeLanguageApp.git].
 2. Install Python (version 3.x) and necessary dependencies.
 3. Run the main script to start the app: `python main.py`.
 
